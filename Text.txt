@@ -1,0 +1,10 @@
+Introduction
+	I was born on october 5th 2005 in Vancouver, Canada. For the first 3 years of my life I lived in Yaletown on the 25th floor of an apartment. Then in 2008 my younger brother was born and we moved to a larger house in the dunbar area. In kindergarten i started in Trafalgar elementary school to learn french and was in french immersion up until the end of grade 6 when i decided to switch schools for my grad year to shaughnessy elementary school and after that, Prince of Wales Secondary School.
+Experience
+	I first started "coding" (if you call scratch coding) when I was 9 in a summer camp called "byte camp" which was when I started getting an interst in it. About 2 years later I started doing lessons on the weekend for C# and Unity at under the GUI academy and took the courses un401 - un502 which are unity courses and am currently in computer science cs702. Here are the coding languages i've taken over the years:
+	
+	Over the last few years i've been doing my best to learn as much about computer science and programming as I can as I hope to pursue it as a career path. I've done camps, lessons and done courses online and that's why I chose Web Dev 10 because i'm fairly new to HTML.
+Capture the flag
+	This is one of my favourite games i've been able to work on, it's a game about traveling through different worlds to find "flags". Each world has their own unique twist like a snow biome or a desert wasteland. Although I started it in 2017 I haven't really had a good time to really start getting traction on it but In the future i hope to be able to continue working on it and adding more features to the game. 
+Interactive periodic table
+	This is the interactive periodic  table app, this was made recently as a final project in my 8th grade science class. The table is a complete periodic table which has complete information for every element. This project took about 2 weeks of work from me and my partner but in the end we managed to get all of it working perfectly (surprisingly).
